@@ -38,9 +38,9 @@ def roll(amount, sides):
          roll = random.randint(1, sides)
          sum += roll
          rolls.append(str(roll))
-      output = "+".join(rolls)
+      output = " + ".join(rolls)
       print(f'{output} = {sum}')
-      return user_input
+   return user_input
       
 
 print(f''' 
