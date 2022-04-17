@@ -40,7 +40,7 @@ def roll(amount, sides):
          rolls.append(str(roll))
       output = " + ".join(rolls)
       print(f'{output} = {sum}')
-   return user_input
+   user_input()
       
 
 print(f''' 
