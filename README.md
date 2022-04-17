@@ -20,4 +20,4 @@ Project is currently in development.
 
 ## Sources
 
-This projects was inpired by dice rolling function on "Roll20" (roll20.net).
+This project was inpired by dice rolling function on "Roll20" (roll20.net).
